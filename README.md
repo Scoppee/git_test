@@ -1,2 +1,1 @@
-# git_test
-The first ever repository on odin project
+Hello Odin!
